@@ -31,20 +31,16 @@
     const logo = `${green}
 
 
+   _____                __  __                _____   
+  / ____|      /\      |  \/  |      /\      |  __ \  
+ | (___       /  \     | \  / |     /  \     | |__) | 
+  \___ \     / /\ \    | |\/| |    / /\ \    |  _  /  
+  ____) |   / ____ \   | |  | |   / ____ \   | | \ \  
+ |_____/   /_/    \_\  |_|  |_|  /_/    \_\  |_|  \_\ 
+                                                      
+                                                      
                                                                                                                     
-                                                                                                                    
-  ____                      _                  ___       ___                   _                  ________          
- 6MMMMb\                   dM.                 `MMb     dMM'                  dM.                 `MMMMMMMb.        
-6M'    `                  ,MMb                  MMM.   ,PMM                  ,MMb                  MM    `Mb        
-MM                        d'YM.                 M`Mb   d'MM                  d'YM.                 MM     MM        
-YM.                      ,P `Mb                 M YM. ,P MM                 ,P `Mb                 MM     MM        
- YMMMMb                  d'  YM.                M `Mb d' MM                 d'  YM.                MM    .M9        
-     `Mb                ,P   `Mb                M  YM.P  MM                ,P   `Mb                MMMMMMM9'        
-      MM                d'    YM.               M  `Mb'  MM                d'    YM.               MM  \M\          
-      MM               ,MMMMMMMMb               M   YP   MM               ,MMMMMMMMb               MM   \M\         
-L    ,M9               d'      YM.              M   `'   MM               d'      YM.              MM    \M\        
-MYMMMM9              _dM_     _dMM_            _M_      _MM_            _dM_     _dMM_            _MM_    \M\_      
-                                                                                                                    
+                                                                                                                                                                                                         
                                                                                                                     
                                                                                                                     
                                                                                                                     
